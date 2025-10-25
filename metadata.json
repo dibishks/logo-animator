@@ -1,0 +1,5 @@
+{
+  "name": "logo-animator",
+  "description": "Design a logo for your company using a text description or an uploaded image, and then bring it to life with a stunning video animation powered by Google's Imagen and Veo models.",
+  "requestFramePermissions": []
+}
